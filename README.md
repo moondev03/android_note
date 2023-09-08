@@ -12,6 +12,12 @@
 ~~~
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+<queries>
+        <intent>
+            <action android:name="android.speech.RecognitionService" />
+        </intent>
+</queries>
 ~~~
   
 [참고 URL] (https://itstory1592.tistory.com/50)
