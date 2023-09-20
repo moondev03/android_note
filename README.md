@@ -40,6 +40,7 @@ dependencies {
 ~~~
   
 [참고 URL] (https://github.com/seyoungcho2/CoroutinesKoreanTranslation/tree/main)
+<br>
 [참고 URL] (https://developer.android.com/kotlin/coroutines?hl=ko#groovy)
 
 </div>
