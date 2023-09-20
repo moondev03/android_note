@@ -34,10 +34,13 @@
 <br>
 
 ~~~
-
+dependencies {
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9'
+}
 ~~~
   
 [참고 URL] (https://github.com/seyoungcho2/CoroutinesKoreanTranslation/tree/main)
+[참고 URL] (https://developer.android.com/kotlin/coroutines?hl=ko#groovy)
 
 </div>
 </details>
