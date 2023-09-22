@@ -45,3 +45,24 @@ dependencies {
 
 </div>
 </details>
+
+<!-- ImmortalService(Foreground) -->
+<details>
+<summary>ImmortalService(Foreground) </summary>
+<div markdown="1">
+<br>
+
+~~~
+        <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+
+        <application>
+                ...
+                <service android:name=".ImmortalService"></service>
+                ...
+        </application>
+~~~
+  
+[참고 URL] (https://github.com/jwl-97/immortalService/tree/main)
+
+</div>
+</details>
